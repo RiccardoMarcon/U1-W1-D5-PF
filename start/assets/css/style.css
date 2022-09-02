@@ -99,6 +99,8 @@ main cite {
   margin-top: 20px;
   color: black;
   margin-bottom: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
   border: 1px solid #dee1e3;
   height: 350px;
 }
@@ -111,4 +113,30 @@ main cite {
 .descrizione_as p {
   padding-left: 5px;
   padding-right: 5px;
+}
+
+/* FOOTEER */
+
+footer {
+  margin-top: 30px;
+  background-color: #25a2c3;
+  padding: 20px;
+  color: #c8e7f0;
+  text-align: center;
+  font-size: 0.85em;
+}
+
+footer h3 {
+  color: white;
+  font-size: 30px;
+  line-height: 2;
+}
+footer a {
+  color: #c8e7f0;
+}
+
+footer hr {
+  width: 40%;
+  border: none;
+  border-bottom: 1px solid #c8e7f0;
 }
